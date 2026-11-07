@@ -4,7 +4,7 @@ Optimized and permanent default folder view configuration for [FilePilot](https:
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 By default, FilePilot caches per-folder view configurations and session states, which can make it tricky to enforce a consistent folder view across all directories and new tabs. 
 
@@ -18,7 +18,7 @@ This repository provides pre-configured, tested configuration files (`FPilot-Con
 
 ---
 
-## 📁 Repository Files
+##  Repository Files
 
 | File | Target Location | Description |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ This repository provides pre-configured, tested configuration files (`FPilot-Con
 
 ---
 
-## ⚙️ Technical Schema Details
+##  Technical Schema Details
 
 FilePilot v0.8.1 parses folder views using specific JSON properties and enums:
 
@@ -53,7 +53,7 @@ FilePilot v0.8.1 parses folder views using specific JSON properties and enums:
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 Close FilePilot completely before applying these files to prevent the in-memory state from overwriting the JSON files on shutdown.
@@ -82,6 +82,3 @@ attrib -R "$env:APPDATA\Voidstar\FilePilot\*.json"
 Open FilePilot. Every directory, panel, and new tab will now open with 65% icon zoom, grouped by Date Created (Descending), and sorted by Date Modified (Descending).
 
 ---
-
-## 📄 License
-Personal configuration files provided as-is for use with FilePilot.
