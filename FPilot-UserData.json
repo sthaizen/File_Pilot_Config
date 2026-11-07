@@ -1,0 +1,54 @@
+{
+	"Version": 1,
+	"Layouts": [
+	],
+	"Folders": [
+	],
+	"DefaultFolder": {"ZoomLevel": 0.650000, "SortedBy": 10, "GroupedBy": {"Kind": "DateCreated", "Descending": true}, "FolderSort": "FoldersFirst", "": 0.650000, "Columns": [{"Kind": 0, "SplitRatio": 0.450000}, {"Kind": 1, "SplitRatio": 0.150000}, {"Kind": 5, "SplitRatio": 0.150000}, {"Kind": 3, "SplitRatio": 0.150000}, {"Kind": 2, "SplitRatio": 0.100000}]},
+	"Recents": [
+		{ "Path": "C:/Users/USER/Downloads", "Score": 10, "Decay": 0, "Ordinal": 66, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "E:", "Score": 10, "Decay": 0, "Ordinal": 65, "DriveFixed": true, "DriveSerial": 3458613107 },
+		{ "Path": "C:", "Score": 10, "Decay": 1, "Ordinal": 64, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "Root", "Score": 9, "Decay": 4, "Ordinal": 56 },
+		{ "Path": "E:/Games", "Score": 9, "Decay": 4, "Ordinal": 14, "DriveFixed": true, "DriveSerial": 3458613107 },
+		{ "Path": "C:/Users/USER/Documents", "Score": 7, "Decay": 2, "Ordinal": 61, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "C:/Users/USER/Pictures", "Score": 6, "Decay": 8, "Ordinal": 51, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "C:/$Recycle.Bin", "Score": 6, "Decay": 0, "Ordinal": 49, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "C:/Users/USER/AppData/Local/Voidstar/FilePilot/FPilot.exe", "Score": 6, "Decay": 0, "Ordinal": 38, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "E:/Comp 1_7_2_1_1.mp4", "Score": 6, "Decay": 1, "Ordinal": 31, "DriveFixed": true, "DriveSerial": 3458613107 },
+		{ "Path": "C:/Users/USER/Favorites", "Score": 4, "Decay": 10, "Ordinal": 46, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "E:/light room presets", "Score": 3, "Decay": 0, "Ordinal": 59, "DriveFixed": true, "DriveSerial": 3458613107 },
+		{ "Path": "C:/Users/USER/Music", "Score": 3, "Decay": 7, "Ordinal": 52, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "C:/Users/USER/Videos", "Score": 3, "Decay": 9, "Ordinal": 50, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "C:/Users/USER/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Antigravity", "Score": 3, "Decay": 0, "Ordinal": 42, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "C:/Users/USER/AppData/Roaming/Microsoft/Windows/Start Menu/Programs", "Score": 3, "Decay": 0, "Ordinal": 41, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "C:/Users/USER/AppData/Roaming/Voidstar/FilePilot", "Score": 3, "Decay": 0, "Ordinal": 40, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "C:/Users/USER/AppData/Roaming/Voidstar", "Score": 3, "Decay": 0, "Ordinal": 39, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "E:/23050342 Yathartha Shrestha", "Score": 3, "Decay": 2, "Ordinal": 29, "DriveFixed": true, "DriveSerial": 3458613107 },
+		{ "Path": "C:/Users/USER", "Score": 3, "Decay": 0, "Ordinal": 19, "DriveFixed": true, "DriveSerial": 2734413383 },
+		{ "Path": "C:/Users/USER/Desktop", "Score": 0, "Decay": 10, "Ordinal": 34, "DriveFixed": true, "DriveSerial": 2734413383 }
+	],
+	"PathBookmarks": [
+	],
+	"CommandBookmarks": [
+		"HK_ToggleExpandFolder",
+		"HK_InspectorToggle",
+		"HK_PanelSplitRight",
+		"HK_PanelSplitBottom",
+		"HK_TabNew",
+		"HK_TabClose",
+		"HK_OptionsOpen",
+		"HK_ExplorerOpen",
+		"HK_ConsoleOpen",
+		"HK_ToggleFileExtension",
+		"HK_ToggleHiddenFiles",
+		"HK_ToggleSystemFiles",
+		"HK_ToggleRecents",
+		"HK_ToggleSortRecents"
+	],
+	"ContextMenuBookmarks": [
+		"Group by > Date Created/",
+		"Sort by > Date Modified/"
+	],
+	"InstallerPresentedVersion": "v0.8.1"
+}
